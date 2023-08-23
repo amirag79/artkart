@@ -1,0 +1,137 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Mar 29, 2023, 10:26:33 AM
+    Author     : garim
+*/
+html,body {
+    height: 100%;
+    
+}
+
+body.my-login-page {
+    
+    background-image: url("img/Oil-painting.png");
+    /* background: radial-gradient(circle, rgba(0,153,255,0.1390756986388305) 32%, rgba(0,11,117,0.1474790599833683) 100%); */
+    font-size: 14px;
+}
+
+.my-login-page .brand {
+    width: 111px;
+    height: 111px;
+    overflow: hidden;
+    border-radius: 50%;
+    margin: 40px auto;
+    box-shadow: 0 5px 10px rgba(0,0,0,.10);
+    position: relative;
+    z-index: 1;
+    transition: 3s;
+    background: rgba(36,39,52,0.3);
+}
+
+.my-login-page .brand img {
+    width: 100%;
+    margin-top: 100px;
+}
+.login .img{
+    margin-top: 100px;
+    width: 50px;
+}
+
+.my-login-page .card-wrapper {
+    width: 450px;
+}
+
+.my-login-page .card {
+    border-color: transparent;
+    box-shadow: 0 4px 8px rgba(0,0,0,.05);
+}
+
+.my-login-page .card.fat {
+    padding: 10px;
+    background: rgba(36,39,52,0.3);;
+    border-radius: 35px;
+    margin-top: 150px;
+}
+
+.my-login-page .card .card-title {
+    margin-bottom: 30px;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+
+
+}
+
+.my-login-page .form-control {
+    border-width: 2.3px;
+}
+
+.my-login-page .form-group label {
+    width: 100%;
+}
+.my-login-page input[type="submit"] {
+    display: block;
+    border: none;
+    outline: none;
+    height: 40px;
+    width: 380px;
+    background: #eccc68;
+    color: #000;
+    font-size: 20px;
+    border-radius: 10px;
+}
+.my-login-page input[type="submit"]:hover {
+    border: none;
+    outline: none;
+    height: 40px;
+    width: 380px;
+    background: #ff6348;
+    color: #fff;
+    font-size: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: .3s ease-out;
+}
+
+/*.my-login-page .btn.btn-block {
+    padding: 12px 10px;
+}*/
+
+.my-login-page .footer {
+    margin: 40px 0;
+    color: #888;
+    text-align: center;
+}
+
+@media screen and (max-width: 425px) {
+    .my-login-page .card-wrapper {
+        width: 90%;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .my-login-page .card.fat {
+        padding: 0;
+    }
+
+    .my-login-page .card.fat .card-body {
+        padding: 15px;
+    }
+}
+
+#decoration {
+    text-decoration: none;
+}
+
+.hover{
+    transition: 4s;
+    transform: rotate(360deg);
+    position: relative;
+}
+
+
+
