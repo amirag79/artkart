@@ -1,7 +1,5 @@
 ArtKart Website
-Name: Garima Maurya
-RollNo: 21223023
-MCA 4th Sem
+
 
 1.Description
 This website is a platform for artists to showcase and sell their paintings. Users can browse through various paintings and purchase them directly from the website. Each painting includes details about the artist, including a way to contact them directly. The website also has an about page that provides more information about the website and its mission, as well as a contact page that allows users to get in touch with the website's managers and provide feedback.
@@ -36,10 +34,3 @@ If you are an artist and would like to showcase your paintings on our website, p
 7.Contact
 If you have any questions or feedback, please get in touch with us using the contact page on the website. We look forward to hearing from you!
 
-8.About
-The Art selling website is a project created by [GARIMA MAURYA] as part of [WEB DEVOLOPMENT] of MCA Course. It is intended to showcase the use of web technologies for building interactive applications.
-
-9.Acknowledgments
-We would like to express our sincere gratitude to Professor [Dr. Shyam Sundar] for his valuable guidance and support throughout the development of this website. His expertise and insights were instrumental in helping us to create a user-friendly and visually appealing platform for artists to showcase and sell their paintings. 
-Thank you,
-Professor [Dr. Shyam Sundar], for your time and effort in making this project a success.
